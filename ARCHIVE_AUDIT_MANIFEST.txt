@@ -1,0 +1,48 @@
+archive=MarketInsight-main.zip
+valid_zip=True
+first_bad_member=
+member_count=42
+
+size	compressed	crc32	path
+0	0	00000000	MarketInsight-main/
+4432	1922	7c5af610	MarketInsight-main/.gitignore
+5	5	5159eecf	MarketInsight-main/.python-version
+35149	12112	97673d00	MarketInsight-main/LICENSE
+0	0	00000000	MarketInsight-main/MarketInsight/
+0	0	00000000	MarketInsight-main/MarketInsight/__init__.py
+0	0	00000000	MarketInsight-main/MarketInsight/components/
+0	0	00000000	MarketInsight-main/MarketInsight/components/__init__.py
+923	453	84152ef5	MarketInsight-main/MarketInsight/components/agent.py
+0	0	00000000	MarketInsight-main/MarketInsight/utils/
+0	0	00000000	MarketInsight-main/MarketInsight/utils/__init__.py
+1294	501	ddbee6ac	MarketInsight-main/MarketInsight/utils/logger.py
+18596	1961	da2bb2f1	MarketInsight-main/MarketInsight/utils/tools.py
+2118	1024	5579fb27	MarketInsight-main/README.md
+0	0	00000000	MarketInsight-main/config/
+0	0	00000000	MarketInsight-main/config/__init__.py
+201	116	4887bd34	MarketInsight-main/config/config.py
+0	0	00000000	MarketInsight-main/frontend/
+61	61	bae763f0	MarketInsight-main/frontend/.env.production
+253	156	c9f5aaa4	MarketInsight-main/frontend/.gitignore
+616	286	8e5ea1af	MarketInsight-main/frontend/eslint.config.js
+731	373	85bdcbfa	MarketInsight-main/frontend/index.html
+782	339	41556ba7	MarketInsight-main/frontend/package.json
+0	0	00000000	MarketInsight-main/frontend/public/
+119064	118437	977279a4	MarketInsight-main/frontend/public/icon.png
+0	0	00000000	MarketInsight-main/frontend/src/
+4079	1379	3c2c977e	MarketInsight-main/frontend/src/App.css
+8980	2543	c189a49e	MarketInsight-main/frontend/src/App.tsx
+0	0	00000000	MarketInsight-main/frontend/src/assets/
+4126	2117	ea84d7c7	MarketInsight-main/frontend/src/assets/react.svg
+209	138	9e988115	MarketInsight-main/frontend/src/main.tsx
+732	379	3eef1752	MarketInsight-main/frontend/tsconfig.app.json
+119	80	836716ee	MarketInsight-main/frontend/tsconfig.json
+653	338	60a5cd0d	MarketInsight-main/frontend/tsconfig.node.json
+140	83	dc48bc1f	MarketInsight-main/frontend/vercel.json
+307	196	eed70b13	MarketInsight-main/frontend/vite.config.ts
+3637	1430	099edc2e	MarketInsight-main/main.py
+410	219	a5d759ae	MarketInsight-main/package.json
+410	240	8ca78085	MarketInsight-main/pyproject.toml
+252	187	963d3e79	MarketInsight-main/render.yaml
+108	75	3df4044a	MarketInsight-main/requirements.txt
+232918	72380	b23553b3	MarketInsight-main/uv.lock
